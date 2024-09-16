@@ -1,0 +1,33 @@
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\appsettings.Development.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\appsettings.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Proyecto final ASP.NET.staticwebassets.runtime.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Proyecto final ASP.NET.exe
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Proyecto final ASP.NET.deps.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Proyecto final ASP.NET.runtimeconfig.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Proyecto final ASP.NET.dll
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Proyecto final ASP.NET.pdb
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.csproj.AssemblyReference.cache
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.AssemblyInfoInputs.cache
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.AssemblyInfo.cs
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.csproj.CoreCompileInputs.cache
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.RazorAssemblyInfo.cache
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.RazorAssemblyInfo.cs
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets.build.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets.development.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto final ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto final ASP.NET.props
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto final ASP.NET.props
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto final ASP.NET.props
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\staticwebassets.pack.json
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\scopedcss\bundle\Proyecto final ASP.NET.styles.css
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto final ASP.NET.bundle.scp.css
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto.E433F64A.Up2Date
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.dll
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\refint\Proyecto final ASP.NET.dll
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.pdb
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\Proyecto final ASP.NET.genruntimeconfig.cache
+E:\proyectos asp.net core\Proyecto final ASP.NET\Proyecto final ASP.NET\obj\Debug\net8.0\ref\Proyecto final ASP.NET.dll

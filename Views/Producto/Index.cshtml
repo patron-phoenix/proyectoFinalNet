@@ -1,0 +1,32 @@
+﻿<h1 class="text-center mb-3">Lista de Productos</h1>
+<div class="row">
+    <div class="offset-9 col-2 mb-3">
+        <a asp-controller="Carrito" asp-action="Index" class="btn btn-success d-block mx-auto btn-lg">Ver</a>
+    </div>
+</div>
+
+<table class="table">
+    <thead class="bg-success text-white">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Foto</th>
+            <th scope="col">Precio</th>
+            <th scope="col">Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var prod in ViewBag.productos)
+        {
+            <tr>
+                <td>@prod.Id</td>
+                <td>@prod.Nombre</td>
+                <td> <img src="~/Imagenes/@prod.Foto" alt="Foto del producto" width="150px"  /> </td>
+                <td>@prod.Precio</td>
+                <td> <a class="btn btn-success" asp-controller="Carrito" asp-action="Agregar" asp-route-id="@prod.Id"> <i class="fa-solid fa-cart-shopping"></i> Agregar</a> </td>
+            </tr>
+        }
+
+       
+    </tbody>
+</table>

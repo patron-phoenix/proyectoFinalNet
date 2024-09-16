@@ -1,0 +1,67 @@
+﻿@model List<Item>
+
+@{
+    var carrito = ViewBag.carrito as List<Item> ?? new List<Item>();
+}
+
+<h1 class="text-center mb-3">Contenido Carrito</h1>
+
+
+    
+
+
+<div class="row">
+    <div class="offset-9 col-2 mb-3">
+        <a asp-controller="Producto" asp-action="Index" class="btn btn-success d-block mx-auto btn-lg"> <i class="fa-solid fa-backward"></i> Volver</a>
+    </div>
+</div>
+
+@if (carrito.Any())
+{
+
+<table class="table">
+    <thead>
+            <tr class="bg-success text-white">
+            <th scope="col">ID</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Foto</th>
+            <th scope="col">Precio</th>
+            <th scope="col">Cantidad</th>
+            <th scope="col">Sub Total</th>
+            <th scope="col">Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.carrito)
+        {
+            <tr>
+                <td>@item.producto.Id</td>
+                <td>@item.producto.Nombre</td>
+                <td> <img src="~/Imagenes/@item.producto.Foto" alt="Foto del producto" width="150px" /> </td>
+                <td>@item.producto.Precio</td>
+                <td>@item.cantidad</td>
+                <td>@(item.producto.Precio*item.cantidad)</td>
+                <td> <a class="btn btn-danger" asp-controller="Carrito" asp-action="Eliminar" asp-route-id="@item.producto.Id"> <i class="fa-solid fa-trash"></i> Eliminar</a> </td>
+            </tr>
+        }
+
+    <tr>
+        <td colspan="5" align="right"> Total (Bs.): </td>
+        <td> @ViewBag.total</td>
+    </tr>
+
+
+    </tbody>
+
+</table>
+
+<div class="row">
+    <div class="d-grid gap-2 col-6 mx-auto">
+        <a asp-controller="Carrito" asp-action="Pago" class="btn btn-primary d-block mx-auto btn-lg"> <i class="fa-solid fa-check"></i> Finalizar Compra</a>
+    </div>
+    </div>
+}
+else
+{
+    <h3 class="text-center text-danger">El carrito esta vacio</h3>
+}
